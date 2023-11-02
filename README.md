@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Khaled</h1>
+<h1 align="center">Hi, I'm Omar Khaled</h1>
 <h3 align="center">A passionate mechatronics engineer</h3>
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/omar-khaled-a82b63220/</h3>
